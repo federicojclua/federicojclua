@@ -36,9 +36,7 @@ A passionate fullstack developer from Tucumán, Argentina.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="80" height="80"/>
       <br><b>NGINX</b>
     </td>
-    <td align="center">
-      <!-- Espacio en blanco para equilibrio -->
-    </td>
+ 
   </tr>
 </table>
 
