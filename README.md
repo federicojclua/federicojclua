@@ -1,10 +1,12 @@
-# Hi 👋, I'm Federico Clua
+# Hi 👋, I'm Manuel
 
 A passionate fullstack developer from Tucumán, Argentina.
 
 ## Languages and Tools:
 
 <table align="center">
+  <tr>
+    <td align="cente>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80"/>
